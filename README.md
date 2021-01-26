@@ -4,13 +4,10 @@
 
 ## Useful resources for web design and web development
 ### Free Images:
-https://pixabay.com/ 
-https://unsplash.com/ 
-https://www.pexels.com/ 
+https://pixabay.com | https://unsplash.com | https://www.pexels.com
 
 ### Free Illustrations:
-https://undraw.co 
-https://www.freepik.com 
+https://undraw.co | https://www.freepik.com 
 
 ### Gradient Colors:
-https://webgradients.com/
+https://webgradients.com
